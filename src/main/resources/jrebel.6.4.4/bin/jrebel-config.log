@@ -1,0 +1,55 @@
+2016-05-21 00:01:25.110 INFO  [main] StandaloneJRebelClientAdapter - 
+
+Starting session: Sat May 21 00:01:25 CST 2016
+2016-05-21 00:01:26.062 DEBUG [main] Config - Look and feel is :com.sun.java.swing.plaf.windows.WindowsLookAndFeel
+2016-05-21 00:01:30.239 INFO  [AWT-EventQueue-0] JRebelCommon - Using rebel home [C:\Users\tommy\.jrebel]
+2016-05-21 00:01:30.241 DEBUG [AWT-EventQueue-0] JRebelConfiguration - jrebel.properties {}
+2016-05-21 00:01:30.242 DEBUG [AWT-EventQueue-0] JRebelConfiguration - JRebel agent log level: OFF
+2016-05-21 00:01:30.247 DEBUG [AWT-EventQueue-0] JRebelLicensingCLI - getLicensingStatus
+2016-05-21 00:01:31.116 DEBUG [AWT-EventQueue-0] Watcher - listenForLicenseChange org.zeroturnaround.jrebel.client.licensing.LicenseServerSeatReserver$1@306a0a21
+2016-05-21 00:01:31.117 DEBUG [AWT-EventQueue-0] JRebelLicensingCLI - getLicensingStatus
+2016-05-21 00:01:31.117 DEBUG [rebel.lwatch] JRebelLicensingCLI - getLicensingStatus
+2016-05-21 00:01:33.628 DEBUG [Thread-3] JRebelLicensingCLI - https://headless.zeroturnaround.com/public/api/registrations/add-jrebel-evaluation.php?ping - status:200
+2016-05-21 00:01:33.897 DEBUG [AWT-EventQueue-0] Watcher - listenForLicenseChange org.zeroturnaround.jrebel.ide.common.ui.activation.TabsController@1882af41
+2016-05-21 00:01:33.899 INFO  [AWT-EventQueue-0] LicenseNotifier - suspendNewNotifications
+2016-05-21 00:01:34.516 DEBUG [AWT-EventQueue-0] OsUser - stdout[????W??             tommy
+???W                   
+???                   
+????????           
+??X (?a??X)          000 (?t?£dw?]??)
+?b???£V?             Yes
+?b????               ?q??
+
+?W???]?w?K?X           2014/9/3 ?U?? 09:44:53
+?K?X???               ?q??
+?i???K?X             2014/9/3 ?U?? 09:44:53
+???J?K?X             No
+????i?H???K?X     Yes
+
+?e?\???u?@??           ????
+?n?J??O??             
+????]?w??           
+?D???                 
+?W???n?J???           2016/5/20 ?U?? 07:25:27
+
+?i?e?\???n?J???       ????
+
+?????s??|??           *Administrators       *HelpLibraryUpdaters  
+                       *ora_dba              *Performance Log Users
+????s??|??           *None                 
+?R?O?w?g???\?????C]
+2016-05-21 00:01:34.701 DEBUG [AWT-EventQueue-0] JRebelConfiguration - jrebel.properties {}
+2016-05-21 00:01:34.721 DEBUG [AWT-EventQueue-0] JRebelConfiguration - JRebel agent log level after reinit: OFF
+2016-05-21 00:01:53.923 INFO  [AWT-EventQueue-0] ActivationDialog - onButtonActivate_async: Data[mode=ACTIVATION_CODE,activationCodeText=<Presented 1368 char(s)>,licenseFile=null,licenseServerAddress=,email=<empty>,useIDEProxySettings=false]
+2016-05-21 00:01:58.114 DEBUG [JRActivatuonAsyncThread] Watcher - detected change in license. notifying listeners
+2016-05-21 00:01:58.114 DEBUG [JRActivatuonAsyncThread] Watcher - previous: LicensingStatus [ hasLicense = true; hasValidLicenseType=false; isValid=false; errMessage = 'You do not have a valid license!'; activationStatus=null; ]
+2016-05-21 00:01:58.114 DEBUG [JRActivatuonAsyncThread] Watcher - new: LicensingStatus [ hasLicense = true; hasValidLicenseType=true; isValid=true; errMessage = 'null'; activationStatus=null; ]
+2016-05-21 00:01:58.115 INFO  [JRActivatuonAsyncThread] JRebelLicensingCLI - Sending connectivity message
+2016-05-21 00:01:58.115 DEBUG [AWT-EventQueue-0] TabsController - showLicenseStatus LicensingStatus [ hasLicense = true; hasValidLicenseType=true; isValid=true; errMessage = 'null'; activationStatus=null; ]
+2016-05-21 00:01:58.115 DEBUG [AWT-EventQueue-0] TabsController - updating panel
+2016-05-21 00:01:58.160 DEBUG [AWT-EventQueue-0] TabsController - showLicenseStatus LicensingStatus [ hasLicense = true; hasValidLicenseType=true; isValid=true; errMessage = 'null'; activationStatus=null; ]
+2016-05-21 00:01:58.160 DEBUG [AWT-EventQueue-0] TabsController - updating panel
+2016-05-21 00:04:34.110 DEBUG [AWT-EventQueue-0] Watcher - removeLicenseChangeListener org.zeroturnaround.jrebel.ide.common.ui.activation.TabsController@1882af41
+2016-05-21 00:04:34.110 INFO  [AWT-EventQueue-0] LicenseNotifier - resumeNewNotifications
+2016-05-21 00:04:34.124 DEBUG [AWT-EventQueue-0] Watcher - removeLicenseChangeListener org.zeroturnaround.jrebel.ide.common.ui.activation.TabsController@1882af41
+2016-05-21 00:04:34.124 INFO  [AWT-EventQueue-0] LicenseNotifier - resumeNewNotifications

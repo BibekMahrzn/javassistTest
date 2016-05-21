@@ -1,0 +1,49 @@
+2016-05-21 00:01:30.712 DEBUG [0] [Licensing] === API START: getCurrentLicense
+2016-05-21 00:01:30.772 INFO  [0] [Licensing] === Event: getCurrentLicense
+2016-05-21 00:01:30.859 INFO  [0] [Licensing] Trying licenseServer licensing ..
+2016-05-21 00:01:30.859 DEBUG [0] [Licensing] greedy: false, forStatusCheck: true
+2016-05-21 00:01:30.859 INFO  [0] [Licensing]  --> This licensing source didn't find valid licensing
+2016-05-21 00:01:30.860 INFO  [0] [Licensing] Trying license file licensing ..
+2016-05-21 00:01:30.860 INFO  [0] [Licensing] Attempting to load license file from: C:\Users\tommy\.jrebel\jrebel.lic
+2016-05-21 00:01:30.860 INFO  [0] [Licensing] Attempting to load license file from: C:\Users\tommy\Desktop\jrebel-6.4.4-nosetup\jrebel\jrebel.lic
+2016-05-21 00:01:30.860 INFO  [0] [Licensing]  --> This licensing source didn't find valid licensing
+2016-05-21 00:01:30.860 INFO  [0] [Licensing] Trying myJRebel licensing ..
+2016-05-21 00:01:30.861 INFO  [0] [Licensing]  --> This licensing source didn't find valid licensing
+2016-05-21 00:01:30.862 WARN  [0] [Licensing] All licenses sources have failed!
+2016-05-21 00:01:30.862 INFO  [0] [Licensing] Licensing exception: UNABLE TO INITIALIZE LICENSING - NO LICENSE FOUND
+2016-05-21 00:01:31.056 DEBUG [0] [Licensing] === API CALL SUCCEEDED
+2016-05-21 00:01:31.326 DEBUG [0] [Licensing] === API START: getCurrentLicense
+2016-05-21 00:01:31.360 INFO  [0] [Licensing] === Event: getCurrentLicense
+2016-05-21 00:01:31.359 DEBUG [0] [Licensing] === API START: getCurrentLicense
+2016-05-21 00:01:31.383 INFO  [0] [Licensing] === Event: getCurrentLicense
+2016-05-21 00:01:31.434 INFO  [0] [Licensing] Trying licenseServer licensing ..
+2016-05-21 00:01:31.434 DEBUG [0] [Licensing] greedy: false, forStatusCheck: true
+2016-05-21 00:01:31.434 INFO  [0] [Licensing]  --> This licensing source didn't find valid licensing
+2016-05-21 00:01:31.434 INFO  [0] [Licensing] Trying license file licensing ..
+2016-05-21 00:01:31.435 INFO  [0] [Licensing] Attempting to load license file from: C:\Users\tommy\.jrebel\jrebel.lic
+2016-05-21 00:01:31.435 INFO  [0] [Licensing] Attempting to load license file from: C:\Users\tommy\Desktop\jrebel-6.4.4-nosetup\jrebel\jrebel.lic
+2016-05-21 00:01:31.435 INFO  [0] [Licensing]  --> This licensing source didn't find valid licensing
+2016-05-21 00:01:31.435 INFO  [0] [Licensing] Trying myJRebel licensing ..
+2016-05-21 00:01:31.439 INFO  [0] [Licensing] Trying licenseServer licensing ..
+2016-05-21 00:01:31.439 DEBUG [0] [Licensing] greedy: false, forStatusCheck: true
+2016-05-21 00:01:31.439 INFO  [0] [Licensing]  --> This licensing source didn't find valid licensing
+2016-05-21 00:01:31.439 INFO  [0] [Licensing] Trying license file licensing ..
+2016-05-21 00:01:31.439 INFO  [0] [Licensing] Attempting to load license file from: C:\Users\tommy\.jrebel\jrebel.lic
+2016-05-21 00:01:31.439 INFO  [0] [Licensing] Attempting to load license file from: C:\Users\tommy\Desktop\jrebel-6.4.4-nosetup\jrebel\jrebel.lic
+2016-05-21 00:01:31.439 INFO  [0] [Licensing]  --> This licensing source didn't find valid licensing
+2016-05-21 00:01:31.440 INFO  [0] [Licensing] Trying myJRebel licensing ..
+2016-05-21 00:01:31.440 INFO  [0] [Licensing]  --> This licensing source didn't find valid licensing
+2016-05-21 00:01:31.441 WARN  [0] [Licensing] All licenses sources have failed!
+2016-05-21 00:01:31.441 INFO  [0] [Licensing] Licensing exception: UNABLE TO INITIALIZE LICENSING - NO LICENSE FOUND
+2016-05-21 00:01:31.445 INFO  [0] [Licensing]  --> This licensing source didn't find valid licensing
+2016-05-21 00:01:31.445 WARN  [0] [Licensing] All licenses sources have failed!
+2016-05-21 00:01:31.445 INFO  [0] [Licensing] Licensing exception: UNABLE TO INITIALIZE LICENSING - NO LICENSE FOUND
+2016-05-21 00:01:31.461 DEBUG [0] [Licensing] === API CALL SUCCEEDED
+2016-05-21 00:01:31.465 DEBUG [0] [Licensing] === API CALL SUCCEEDED
+2016-05-21 00:01:54.072 DEBUG [0] [Licensing] === API START: activateFromKey rO0ABXNyAChjb20uemVyb3R1cm5hcm91bmQubGljZW5zaW5nLlVzZXJMaWNlbnNlAAAAAAAAAAECAANMAAdkYXRhTWFwdAAPTGphdmEvdXRpbC9NYXA7WwAHbGljZW5zZXQAAltCWwAJc2lnbmF0dXJlcQB+AAJ4cHB1cgACW0Ks8xf4BghU4AIAAHhwAAACZaztAAVzcgARamF2YS51dGlsLkhhc2hNYXAFB9rBwxZg0QMAAkYACmxvYWRGYWN0b3JJAAl0aHJlc2hvbGR4cD9AAAAAAAAYdwgAAAAgAAAAFHQACGxhc3ROYW1ldAAHMjU1MDk4NnQAC0dlbmVyYXRlZEJ5dAAEQVVUT3QABUVtYWlsdAAUeXVkYWR5KzEyM0BnbWFpbC5jb210AAxPcmdhbml6YXRpb250AAVoaW5ldHQACmVudGVycHJpc2V0AAR0cnVldAAHUHJvZHVjdHQABkpSZWJlbHQAC0dlbmVyYXRlZE9uc3IADmphdmEudXRpbC5EYXRlaGqBAUtZdBkDAAB4cHcIAAABVM7iVxp4dAAJdmFsaWRGcm9tcQB+ABB0AAdPcmRlcklkdAAAdAALbGltaXRlZEZyb21xAH4AEHQAB3ZlcnNpb250AAQxLjE0dAAETmFtZXQACWMgMjU1MDk4NnQABVNlYXRzdAABMXQAA3VpZHQAKDdiZDA3OGJhZjViMWFmMWUzYjRkNTVmNWE1MWE5ZTRiNTNlZmZiMzF0AAlmaXJzdE5hbWV0AAFjdAAEVHlwZXQACmV2YWx1YXRpb250AAp2YWxpZFVudGlsc3EAfgAPdwgAAAFcJpODGnh0AAhvdmVycmlkZXQABWZhbHNldAAMbGltaXRlZFVudGlscQB+ACJ0AAl2YWxpZERheXNzcgARamF2YS5sYW5nLkludGVnZXIS4qCk94GHOAIAAUkABXZhbHVleHIAEGphdmEubGFuZy5OdW1iZXKGrJUdC5TgiwIAAHhwAAAADnh1cQB+AAQAAAEAjRt+ftq27YQz2FXhMioYi/C2VMT4dqssf7DQWiAQ7UO3H3AK9XjxR6zWOcsVBtX5XbKVKbgh74bdP8p7fVFqDeq91A6GAJ9cnfTB1/VqdHp+k54f9TyiKQSDVDLNoCEx+io6XheUZyk076cYf/qkTHlhQ6yRD4bzoYah1qwicGBr9pWthwENtAX98R0uh45SQazfQOo/l2FZS/r3nkHQTkN1HT2mF4uhafxYyyxl37VzPKBfakAjnwNalyHqVqQ1KxuoiFQqFrMA30u0Dy/mLg9vA4cM9n6CQ39d9mGB+QVDZYuYMxwXs6KeISPePTSQJVCxq4h2nAk/WZqKvE28Cw==
+2016-05-21 00:01:54.201 INFO  [0] [Licensing] Trying license file licensing ..
+2016-05-21 00:01:54.201 INFO  [0] [Licensing] Attempting to load license file from: C:\Users\tommy\AppData\Local\Temp\jr_lc4842518230352149812
+2016-05-21 00:01:54.212 INFO  [0] [Licensing] License information: {uid=7bd078baf5b1af1e3b4d55f5a51a9e4b53effb31, GeneratedBy=AUTO, lastName=2550986, Seats=1, Product=JRebel, Type=evaluation, OrderId=, enterprise=true, Organization=hinet, validUntil=Sat May 20 23:57:00 CST 2017, version=1.14, Name=c 2550986, validDays=14, GeneratedOn=Fri May 20 23:57:00 CST 2016, Email=yudady+123@gmail.com, limitedFrom=Fri May 20 23:57:00 CST 2016, override=false, validFrom=Fri May 20 23:57:00 CST 2016, firstName=c, limitedUntil=Sat May 20 23:57:00 CST 2017}
+2016-05-21 00:01:54.350 INFO  [0] [Licensing] Generated installation GUID is TYihHiLrokC5sB3xyVRgKXMU2eXERnp17gGQGHebrmA=
+2016-05-21 00:01:54.350 INFO  [0] [Licensing] Generated first install timestamp:1463760114350
+2016-05-21 00:01:57.973 DEBUG [0] [Licensing] === API CALL SUCCEEDED
